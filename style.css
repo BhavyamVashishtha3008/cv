@@ -1,0 +1,51 @@
+
+        body {
+            background-color:#8e93c7;
+            }
+        hr{
+            background-color:#8e93c7;
+            border-color: white;
+            border-style: dotted none none;
+            border-width: 5px;
+            width: 10%;
+            font-size: 40px;
+        }
+        h1{
+           color:#5258a3;
+           font-size: 30px;
+            font-style: italic;
+        }
+        h3{
+            color:#5258a3;
+            font-size: 25px;
+            font-style: italic;
+         }
+        p{
+            color:#5258a3;
+            font-size: 20px;
+            font-style: italic;
+        }
+        td{
+            color:#5258a3;
+            font-size: 20px;
+            font-style: italic;
+        }
+        ul{
+            color:#5258a3;
+            font-size: 20px;
+            font-style: italic;
+        }
+        ol{
+            color:#5258a3;
+            font-size: 20px;
+            font-style: italic;
+        }
+        .profile{
+            width: 200px;
+        }
+        .insta:hover{
+            background-color: rgb(255, 255, 255);
+        }
+        .fb:hover{
+            background-color: rgb(247, 247, 247);
+        }
